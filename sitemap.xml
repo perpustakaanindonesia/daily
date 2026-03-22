@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
     <loc>https://perpustakaanindonesia.github.io/daily/Mengelola-kekalahan-saat-bermain-Princess-Starlight-dengan-pola-bermain-yang-lebih-terarah-agar-peluang-tidak-cepat-habis-tanpa-disadari.html</loc>
@@ -16,8 +17,29 @@
       <news:title>
         Mengelola kekalahan saat bermain Princess Starlight dengan pola bermain yang lebih terarah agar peluang tidak cepat habis tanpa disadari
       </news:title>
-
     </news:news>
+  </url>
+
+  <url>
+    <loc>https://perpustakaanindonesia.github.io/daily/Panduan-menang-maksimal-slot-dengan-pola-efektif-untuk-hasil-stabil-yang-mulai-dipercaya-pemain-ahli.html</loc>
+
+    <news:news>
+      <news:publication>
+        <news:name>Perpustakaan Indonesia Daily</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+
+      <news:publication_date>2026-03-23T09:00:00+07:00</news:publication_date>
+
+      <news:title>
+        Panduan menang maksimal slot dengan pola efektif untuk hasil stabil yang mulai dipercaya pemain ahli
+      </news:title>
+    </news:news>
+
+    <image:image>
+      <image:loc>https://image.solidteam.link/uploads/solidtoto-16.webp</image:loc>
+    </image:image>
+
   </url>
 
 </urlset>
